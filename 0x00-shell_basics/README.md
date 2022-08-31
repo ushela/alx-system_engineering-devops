@@ -32,4 +32,7 @@ remove directory
 go back to previous working directory
 
 #ls -l -a . .. /boot
-list hidden previous and boot
+list hidden previous and boot 
+
+#file /tmp/iamafile
+prints the type of the file named
