@@ -36,3 +36,6 @@ list hidden previous and boot
 
 #file /tmp/iamafile
 prints the type of the file named
+
+#ln -s /bin/ls ./.....
+symoblic link
