@@ -19,8 +19,14 @@ content of directory including format,group id etc
 #mkdir 
 with the directory and file name /tmp/.....
 
-#mv /tmp/betty /tmp/......
+#mv /tmp/betty /tmp/....
 move file
 
-#rm /tmp/..........
+#rm /tmp/.......
 delete a file
+
+#rmdir 
+remove directory
+
+#cd -
+go back to previous working directory
