@@ -31,11 +31,14 @@ remove directory
 #cd -
 go back to previous working directory
 
-#ls -l -a . .. /boot
+#ls -l -a . .. /....
 list hidden previous and boot 
 
-#file /tmp/iamafile
+#file /.....
 prints the type of the file named
 
 #ln -s /bin/ls ./.....
 symoblic link
+
+#mv uppercase
+that moves all files beginning with an uppercase to the directory
