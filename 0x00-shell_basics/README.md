@@ -46,3 +46,6 @@ that moves all files beginning with an uppercase to the directory
 
 #rm ./....
  deletes all files in the current working directory that end with the character
+
+#mkdir -p welcome/to/school
+a script that makes multiple directories
