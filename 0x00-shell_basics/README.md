@@ -9,3 +9,6 @@ changes the working directory to the user’s home directory
 
 #ls -l
 current directory contents in a long format
+
+#ls -l
+showing hidden files
