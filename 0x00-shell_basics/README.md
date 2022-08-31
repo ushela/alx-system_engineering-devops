@@ -30,3 +30,6 @@ remove directory
 
 #cd -
 go back to previous working directory
+
+#ls -l -a . .. /boot
+list hidden previous and boot
