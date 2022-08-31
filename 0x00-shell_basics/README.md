@@ -49,3 +49,7 @@ that moves all files beginning with an uppercase to the directory
 
 #mkdir -p welcome/to/school
 a script that makes multiple directories
+
+#ls -pma
+list all the files witha comma seperating each one
+
