@@ -31,7 +31,8 @@ remove directory
 #cd -
 go back to previous working directory
 
-#ls -l -a . .. /....
+#ls -l -a . .. /...
+.
 list hidden previous and boot 
 
 #file /.....
@@ -42,3 +43,6 @@ symoblic link
 
 #mv uppercase
 that moves all files beginning with an uppercase to the directory
+
+#rm ./....
+ deletes all files in the current working directory that end with the character
