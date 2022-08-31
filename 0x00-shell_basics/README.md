@@ -12,3 +12,9 @@ current directory contents in a long format
 
 #ls -l
 showing hidden files
+
+#ls -na
+content of directory including format,group id etc
+
+#mkdir 
+with the directory and file name /tmp/......
