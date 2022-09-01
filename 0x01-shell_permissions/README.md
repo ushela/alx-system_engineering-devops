@@ -6,3 +6,6 @@ prints the username of current user
 
 #groups
 all groups of user
+
+#chown 
+change the owner of the file
