@@ -24,3 +24,6 @@ script that adds execution permission to the owner, the group owner and the othe
 
 #chmod 007 
 other users all have permissions except owener and group
+
+#chmod 753
+giving permission
