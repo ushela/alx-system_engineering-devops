@@ -35,4 +35,7 @@ sets the mode of the file hello the same as olleh’s mode..
 adds execute permission to all subdirectoriies of the current directory for the owner, the group owner and all other users
 
 #mkdir mydir ....
-script that creates a directory 
+script that creates a directory
+
+#chgrp .....
+script that changes the group owner 
