@@ -29,4 +29,4 @@ other users all have permissions except owener and group
 giving permission
 
 #chmod --reference=olleh hello
-sets the mode of the file hello the same as olleh’s mode.
+sets the mode of the file hello the same as olleh’s mode..
