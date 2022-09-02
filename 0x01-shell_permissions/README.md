@@ -21,3 +21,6 @@ adds execute permission to the owner and the group owner, and read permission to
 
 #chmod +111
 script that adds execution permission to the owner, the group owner and the other users, to the file
+
+#chmod 007 
+other users all have permissions except owener and group
