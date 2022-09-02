@@ -38,4 +38,7 @@ adds execute permission to all subdirectoriies of the current directory for the 
 script that creates a directory
 
 #chgrp .....
-script that changes the group owner 
+script that changes the group owner
+
+#chown ......
+script that changes group owner for all files and directories 
