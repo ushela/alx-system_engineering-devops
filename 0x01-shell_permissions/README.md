@@ -42,3 +42,6 @@ script that changes the group owner
 
 #chown ......
 script that changes group owner for all files and directories 
+
+#chown -h
+changes a specific owner
