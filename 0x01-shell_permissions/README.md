@@ -49,3 +49,6 @@ changes a specific owner
 #chown --from=.....
 conditional ownership
 
+#telnet towel.blinkenlights.nl
+set permission
+
