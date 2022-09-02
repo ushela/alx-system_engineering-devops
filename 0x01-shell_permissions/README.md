@@ -32,4 +32,7 @@ giving permission
 sets the mode of the file hello the same as olleh’s mode..
 
 #chmod -R ugo+X*
-adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+adds execute permission to all subdirectoriies of the current directory for the owner, the group owner and all other users
+
+#mkdir mydir ....
+script that creates a directory 
